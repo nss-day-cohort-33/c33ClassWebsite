@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/c33ClassWebsite/static/css/main.7ada1871.chunk.css",
+    "main.js": "/c33ClassWebsite/static/js/main.35e6b2c0.chunk.js",
+    "main.js.map": "/c33ClassWebsite/static/js/main.35e6b2c0.chunk.js.map",
+    "runtime~main.js": "/c33ClassWebsite/static/js/runtime~main.a760f494.js",
+    "runtime~main.js.map": "/c33ClassWebsite/static/js/runtime~main.a760f494.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/c33ClassWebsite/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.2b2ce545.chunk.js": "/c33ClassWebsite/static/js/2.2b2ce545.chunk.js",
+    "static/js/2.2b2ce545.chunk.js.map": "/c33ClassWebsite/static/js/2.2b2ce545.chunk.js.map",
+    "index.html": "/c33ClassWebsite/index.html",
+    "precache-manifest.87dbecf43cacf96afc17e1faedc066f0.js": "/c33ClassWebsite/precache-manifest.87dbecf43cacf96afc17e1faedc066f0.js",
+    "service-worker.js": "/c33ClassWebsite/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/c33ClassWebsite/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.7ada1871.chunk.css.map": "/c33ClassWebsite/static/css/main.7ada1871.chunk.css.map",
+    "static/media/DeveloperImages.css": "/c33ClassWebsite/static/media/TylerCarpenter_Fun.5e5ff94c.jpg",
+    "static/media/Developers.css": "/c33ClassWebsite/static/media/background.74f7cdff.png",
+    "static/media/Technologies.css": "/c33ClassWebsite/static/media/webpack.df85a57c.png",
+    "static/media/fun.jpg": "/c33ClassWebsite/static/media/fun.e9548318.jpg",
+    "static/media/logo.png": "/c33ClassWebsite/static/media/logo.2622134f.png",
+    "static/media/serious.jpg": "/c33ClassWebsite/static/media/serious.8833f982.jpg"
+  }
+}
