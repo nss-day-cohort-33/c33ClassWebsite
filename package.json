@@ -1,7 +1,7 @@
 {
   "name": "c30-class-website-react",
   "version": "0.1.0",
-  "homepage": "https://warnercarpenter.github.io/cohort-30-class-website/",
+  "homepage": "http://nss-day-cohort-33.github.io/c33ClassWebsite",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
