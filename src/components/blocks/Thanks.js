@@ -10,7 +10,7 @@ class Thanks extends Component {
                 <div className="thanksText">
 
 
-                    
+
                     <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To "The Dream Team"...our instructors</div><br />
 
                     Steve Brownlee and Joe Shepherd: Thank you for giving us the opportunity to experience learning from two great instructors. Two styles of teaching
@@ -20,7 +20,7 @@ class Thanks extends Component {
                     added some much needed humor to the process! <br /><br />
 
                     To Madi Peper, Kristin Norris, Mo Silva, and Leah Hoefling: Thank you for supporting us through the Peaks and Valleys of becoming software developers. Being recent graduates,
-                    your knowledge, support and understanding was invaluable. You encouraged us and let us the know the impossible was possible. You pushed us and at times carried us through the
+                    your knowledge, support and understanding was invaluable. You encouraged us and let us know the impossible was possible. You pushed us and at times carried us through the
                     tears, frustrations and fear. You also celebrated our successes, capstone completions, "Aha" moments, and when the "light bulb" finally came on. Thank you for continuing to
                     check on us and support us as you moved on to other cohorts. You have all touched us in one way or the other. Continue to be the "Superstars" you are!! <br /><br />
 
@@ -28,12 +28,12 @@ class Thanks extends Component {
                     tools in the middle of sprints. We appreciate the efforts in connecting us with employers, scheduling roundtable events and mock interviews. Thank you for the scheduled talks
                     throughout our time at NSS that guided us through the interviewing process. Your support is never ending and we appreciate all that you do!<br></br>
 
-                    <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To the BEST Cohort EVER-C33...</div><br />
+                    <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To the HARDEST working Cohort-C33...</div><br />
 
-                    From day one Joe recognized we were a "special" bunch, a class dominated by PC's that would haunt us with every install. We also were the most extroverted group so we
-                    were willing to help each other before asking for help from the team. Thanks to the "Seat Squirrel(Sydney)" that made sure we did not get comfortable and had to meet someone
+                    From day one Joe recognized we were a "special" bunch, a class dominated by PC's that would haunt us with every install. We were also a very extroverted group and we
+                    were willing to help each other before asking for help from the instructional team. We always took the time to share knowledge with other students to make sure no one was ever left behind. Thanks to the "Seat Squirrel" that made sure we did not get comfortable and had to meet someone
                     new daily. We found reasons to celebrate with cake, cookies, candy, and donuts. We supported each other during class and on weekends by meeting in our homes and coffee shops to code.
-                    Wherever the journey takes us, continue to be open to learning and supporting growth in others!!  <br /><br />
+                    Wherever the journey takes us, we must continue to be open to learning and supporting growth in others!!  <br /><br />
 
                     <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>And Finally to John Wark...</div><br />
 
