@@ -243,6 +243,7 @@ const cohort = [
         "github": "https://github.com/MCaldwell-42",
         "email": "MCaldwell4242@gmail.com",
         "reelThemIn": `Smooth seas never made a skilled sailor. -Franklin D. Roosevelt`,
+        "bio": `As a young boy I wanted to be a karate teacher. Unfortunately, my parents didn't trust me with karate moves until I was about 11. By then I was quickly approaching the age where karate stopped being cool, so after a year or two of karate I bailed on that dream. By the time I hit college I didn't know what I wanted to do but after a semester or two I settled on Industrial Engineering because it was safe, semi-lucrative, and (in theory) would provide me an opportunity to travel some. I graduated and worked a bit but quickly decided that was for the birds and that the traveling was the only attractive part. So I stopped and took off to travel and teach.  While on my travels I did a project for Engineers Without Borders involving PLC/HMI technology.  This sent me down the rabbit hole of coding and software development and like young Goldilocks before me, I discovered it was Just Right.`
     },
     {
         "id": 23,
