@@ -10,9 +10,7 @@ class Thanks extends Component {
                 <div className="thanksText">
 
 
-                    A shared experience is always powerful, but with the right guidance it can be life changing,
-                    and for that we'd like to say thank you.<br /><br />
-
+                    
                     <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To "The Dream Team"...our instructors</div><br />
 
                     Steve Brownlee and Joe Shepherd: Thank you for giving us the opportunity to experience learning from two great instructors. Two styles of teaching
