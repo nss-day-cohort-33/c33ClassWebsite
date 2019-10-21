@@ -1,7 +1,7 @@
-Class Website for Cohort 30 at Nashville Software School.
-Designed and built by Warner Carpenter.
+Class Website for Cohort 33 at Nashville Software School.
 
-View at https://nss-day-cohort-30.github.io/class-website/
+
+View at https://nss-day-cohort-33.github.io/c33ClassWebsite/
 
 ## To Install
 
@@ -18,4 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+
+Built by Warner Carpenter.
+Designed by Cohort 33 Students:
+Misty DeRamus, Krystal Gates, Karla Gallegos, Shane Millier, Sydney Noh 
+
 
