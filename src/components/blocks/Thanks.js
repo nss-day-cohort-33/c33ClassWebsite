@@ -13,32 +13,35 @@ class Thanks extends Component {
                     A shared experience is always powerful, but with the right guidance it can be life changing,
                     and for that we'd like to say thank you.<br /><br />
 
-                    <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To our instructors...</div><br />
+                    <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To "The Dream Team"...our instructors</div><br />
 
-                    Steve Brownlee: Thank you for being our guide on this fantastic and crazy journey. Your absolute
-                    dedication to student centered learning, and unequivocal growth mindset pushed us all that much
-                    closer to the kind of developers and learners we want to be. Without your leadership
-                    (and let's be honest, dad jokes) our experience wouldn't have been
-                    half as meaningful.<br /><br />
+                    Steve Brownlee and Joe Shepherd: Thank you for giving us the opportunity to experience learning from two great instructors. Two styles of teaching
+                    and problem solving provided us the opportunity to grow in our own unique ways. You taught us to recognize strength in vulnerability and how
+                    vulnerability fostered growth. Thank you for trusting us to build a full stack application and praising us for exceeding your expectations. This has been
+                    an awesome journey and we could not have asked for better guides. We appreciate the dad jokes, 80's music selections, and theatrical performances that
+                    added some much needed humor to the process! <br /><br />
 
-                    To Meg Ducharme, Jenna Solis, Kimmy Bird, and Madi Peper: Having someone in our corner who has
-                    experienced the kinds of challenges we face has been absolutely invaluable. Each and every one
-                    of you took time, patience, and pains to make sure we got the support we needed, and were ready
-                    to take on the next problem. It takes a village, and that's exactly what you are.
-                    Thank you so much.<br /><br />
+                    To Madi Peper, Kristin Norris, Mo Silva, and Leah Hoefling: Thank you for supporting us through the Peaks and Valleys of becoming software developers. Being recent graduates,
+                    your knowledge, support and understanding was invaluable. You encouraged us and let us the know the impossible was possible. You pushed us and at times carried us through the
+                    tears, frustrations and fear. You also celebrated our successes, capstone completions, "Aha" moments, and when the "light bulb" finally came on. Thank you for continuing to
+                    check on us and support us as you moved on to other cohorts. You have all touched us in one way or the other. Continue to be the "Superstars" you are!! <br /><br />
 
-                    <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To the whole NSS team...</div><br />
+                    To Ashley Canino and Kristin McKinney: Thank you for all your hard work to prepare us to enter the workforce. We know it is challenging to get us to focus on career development
+                    tools in the middle of sprints. We appreciate the efforts in connecting us with employers, scheduling roundtable events and mock interviews. Thank you for the scheduled talks
+                    throughout our time at NSS that guided us through the interviewing process. Your support is never ending and we appreciate all that you do!<br></br>
 
-                    Thank you doesn't quite cover it. Your tireless support of students and devotion to mission
-                    is what keeps the lights on! You have all come together to create something magical and unique
-                    in NSS, and we strive to give back to the tech community even a fraction of
-                    what you give every day.<br /><br />
+                    <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>To the BEST Cohort EVER-C33...</div><br />
+
+                    From day one Joe recognized we were a "special" bunch, a class dominated by PC's that would haunt us with every install. We also were the most extroverted group so we
+                    were willing to help each other before asking for help from the team. Thanks to the "Seat Squirrel(Sydney)" that made sure we did not get comfortable and had to meet someone
+                    new daily. We found reasons to celebrate with cake, cookies, candy, and donuts. We supported each other during class and on weekends by meeting in our homes and coffee shops to code.
+                    Wherever the journey takes us, continue to be open to learning and supporting growth in others!!  <br /><br />
 
                     <div style={{ fontWeight: "bold", textAlign: "center", color: "white" }}>And Finally to John Wark...</div><br />
 
-                    Thank you so much for seeing an opportunity in us, and in Nashville. There is a lot of
-                    'you can't' in the world, and all it takes is one person saying 'you can' to initiate change.
-                    We are all richer for the experience we've had at NSS, and we can't wait to see what's next!
+                    Thank you for creating a space for nontraditional software developers. Without your tireless efforts of connecting with the Nashville community to give us a chance, there would not be a
+                    Nashville Software School. For that reason, we are grateful. We are grateful for your experiences and your talks to help us succeed as software developers. As we go our separate ways, we will
+                    support NSS through encouraging others to attend and being an example to our employers of the skill level that is produced. Thank You!!
                 </div>
             </div>
         )
