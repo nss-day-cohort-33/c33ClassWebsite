@@ -7,7 +7,7 @@ body {
   margin: 0;
   overflow: auto;
   transition: 0.25s;
-  background-image: url("./images/background.png");
+  background-image: url("./images/background.jpg");
   background-size: cover;
   color: white;
   background-color: #59657B;
