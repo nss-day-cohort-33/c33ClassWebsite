@@ -16,6 +16,7 @@
     flex-wrap: wrap;
 }
 
+
 .cardContainerMobile {
     flex-direction: column;
     justify-content: center;
@@ -44,6 +45,14 @@
     -webkit-box-shadow: 7px 7px 23px -13px rgba(0, 0, 0, 0.53);
     -moz-box-shadow: 7px 7px 23px -13px rgba(0, 0, 0, 0.53);
     box-shadow: 7px 7px 23px -13px rgba(0, 0, 0, 0.53);
+}
+
+.developerCard:hover {
+    border-color: #e06b28;
+    background-color: rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 50px #e06b2885;
+    -moz-box-shadow: 0 0 50px #e06b2885;
+    box-shadow: 0 0 50px #e06b2885;
 }
 
 .imageHolder {
@@ -198,7 +207,7 @@
     width: 100%;
     background-color: rgb(255, 255, 255);
     flex-grow: 1;
-    background-image: url("../images/background.png");
+    background-image: url("../images/background.jpg");
     background-size: 1000px;
     display: flex;
     flex-direction: row;
@@ -231,8 +240,8 @@
     padding: 10px;
     margin: 20px;
     margin-left: 0px;
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 .modalTitle {
