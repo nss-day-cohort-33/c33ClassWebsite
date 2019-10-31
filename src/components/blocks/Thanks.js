@@ -19,7 +19,7 @@ class Thanks extends Component {
                     an awesome journey and we could not have asked for better guides. We appreciate the dad jokes, 80's music selections, and theatrical performances that
                     added some much needed humor to the process! <br /><br />
 
-                    To Madi Peper, Kristin Norris, Mo Silvera, and Leah Hoefling: Thank you for supporting us through the Peaks and Valleys of becoming software developers. Being recent graduates,
+                    To Madi Peper, Kristen Norris, Mo Silvera, and Leah Hoefling: Thank you for supporting us through the Peaks and Valleys of becoming software developers. Being recent graduates,
                     your knowledge, support and understanding was invaluable. You encouraged us and let us know the impossible was possible. You pushed us and at times carried us through the
                     tears, frustrations and fear. You also celebrated our successes, capstone completions, "Aha" moments, and when the "light bulb" finally came on. Thank you for continuing to
                     check on us and support us as you moved on to other cohorts. You have all touched us in one way or the other. Continue to be the "Superstars" you are!! <br /><br />
