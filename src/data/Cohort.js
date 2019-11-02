@@ -224,8 +224,8 @@ const cohort = [
         "id": 21,
         "firstName": "Daniel",
         "lastName": "Krusch",
-        "portfolio": "https://dkrusch.github.io/",
-        "linkedin": "https://www.linkedin.com/in/daniel-97-barker/",
+        "portfolio": "",
+        "linkedin": "https://www.linkedin.com/in/daniel-krusch/",
         "github": "https://github.com/dkrusch",
         "email": "daniel.krusch@gmail.com",
         "reelThemIn": `“Far best is he who knows all things himself;
